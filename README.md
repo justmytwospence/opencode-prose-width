@@ -1,3 +1,5 @@
+> **Retired.** This plugin now lives in [opencode-plugins](https://github.com/justmytwospence/opencode-plugins/tree/main/packages/opencode-prose-width), ported to OpenCode 2. This repository is archived for history; do not install it alongside the suite.
+
 # opencode-prose-width
 
 An [opencode](https://opencode.ai) TUI plugin that wraps prose in the transcript at a readable
